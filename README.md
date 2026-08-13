@@ -190,9 +190,9 @@
 
 ## Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,768 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,603 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
-* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,052 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,770 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,604 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,053 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Empire](https://github.com/EmpireProject/Empire) ⚠️ Archived
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived
@@ -200,16 +200,16 @@
 
 ### Adversary Emulation
 
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,393 | 🐛 35 | 🌐 C | 📅 2026-08-10
-* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,185 | 🐛 74 | 🌐 Python | 📅 2026-08-12
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,399 | 🐛 30 | 🌐 C | 📅 2026-08-13
+* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,190 | 🐛 74 | 🌐 Python | 📅 2026-08-12
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,145 | 🐛 13 | 🌐 Python | 📅 2019-04-01
 * [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,096 | 🐛 7 | 🌐 Python | 📅 2019-05-01
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 833 | 🐛 1 | 🌐 Python | 📅 2026-08-06
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 835 | 🐛 1 | 🌐 Python | 📅 2026-08-06
 * [Cobalt Strike](https://www.cobaltstrike.com/)
 
 # Other Awesome Lists & sources
 
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,620 | 🐛 9 | 📅 2026-05-07
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,622 | 🐛 9 | 📅 2026-05-07
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,056 | 🐛 19 | 📅 2023-12-28
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,514 | 🐛 0 | 📅 2025-10-01
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 257 | 🐛 3 | 📅 2023-10-19
