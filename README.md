@@ -114,7 +114,7 @@
 
 * [Level Up! Practical Windows Privilege Escalation - Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 * [Windows Privilege Escalation Presentation](https://www.youtube.com/watch?v=mcJ3aRSqGSo)
-* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,718 | 🐛 10 | 🌐 C | 📅 2021-06-11
+* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,716 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * [DEF CON 22 - Kallenberg and Kovah - Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.youtube.com/watch?v=d6VCri6sPnY)
 * [DEF CON 25 - Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level](https://www.youtube.com/watch?v=Gu_5kkErQ6Y)
 * [DerbyCon7 - Not a Security Boundary Bypassing User Account Control](https://www.youtube.com/watch?v=c8LgqtATAnE\&t=0s\&index=21\&list=PLNhlcxQZJSm-PKUZTYe1C94ymf0omysM3)
@@ -190,9 +190,9 @@
 
 ## Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,770 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,772 | 🐛 196 | 🌐 C | 📅 2026-04-17
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,604 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
-* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,053 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
+* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,054 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Empire](https://github.com/EmpireProject/Empire) ⚠️ Archived
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived
@@ -200,19 +200,19 @@
 
 ### Adversary Emulation
 
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,399 | 🐛 30 | 🌐 C | 📅 2026-08-13
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,409 | 🐛 30 | 🌐 C | 📅 2026-08-13
 * [CALDERA](https://github.com/mitre/caldera) ⭐ 7,190 | 🐛 74 | 🌐 Python | 📅 2026-08-12
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,145 | 🐛 13 | 🌐 Python | 📅 2019-04-01
-* [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,096 | 🐛 7 | 🌐 Python | 📅 2019-05-01
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 835 | 🐛 1 | 🌐 Python | 📅 2026-08-06
+* [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,095 | 🐛 7 | 🌐 Python | 📅 2019-05-01
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 837 | 🐛 1 | 🌐 Python | 📅 2026-08-06
 * [Cobalt Strike](https://www.cobaltstrike.com/)
 
 # Other Awesome Lists & sources
 
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,622 | 🐛 9 | 📅 2026-05-07
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,627 | 🐛 9 | 📅 2026-05-07
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,056 | 🐛 19 | 📅 2023-12-28
-* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,514 | 🐛 0 | 📅 2025-10-01
-* [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 257 | 🐛 3 | 📅 2023-10-19
+* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,513 | 🐛 0 | 📅 2025-10-01
+* [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 257 | 🐛 4 | 📅 2023-10-19
 * [Red Teaming Experiments](https://ired.team/)
 
 # Contributing
@@ -223,4 +223,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

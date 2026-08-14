@@ -34,7 +34,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21770
+            "stars": 21772
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10053
+            "stars": 10054
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T17:05:18Z",
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12399
+            "stars": 12409
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2019-05-01T11:40:33Z",
             "owner": "endgameinc",
             "repo": "RTA",
-            "stars": 1096
+            "stars": 1095
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 835
+            "stars": 837
           }
         }
       ],
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:19:07.420Z",
+    "last_updated": "2026-08-14T20:12:32.773Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
     "enhanced_repository": "enhansome/enhansome-windows-red-team",
