@@ -34,7 +34,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21776
+            "stars": 21777
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10606
+            "stars": 10603
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10055
+            "stars": 10057
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2020-01-19T22:50:59Z",
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7862
+            "stars": 7864
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T17:05:18Z",
             "owner": "redcanaryco",
             "repo": "atomic-red-team",
-            "stars": 12411
+            "stars": 12412
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-12T16:29:06Z",
             "owner": "apache",
             "repo": "caldera",
-            "stars": 7190
+            "stars": 7194
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:54:11.008Z",
+    "last_updated": "2026-08-16T19:53:04.267Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
     "enhanced_repository": "enhansome/enhansome-windows-red-team",
