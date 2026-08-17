@@ -114,7 +114,7 @@
 
 * [Level Up! Practical Windows Privilege Escalation - Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 * [Windows Privilege Escalation Presentation](https://www.youtube.com/watch?v=mcJ3aRSqGSo)
-* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,716 | 🐛 10 | 🌐 C | 📅 2021-06-11
+* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,715 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * [DEF CON 22 - Kallenberg and Kovah - Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.youtube.com/watch?v=d6VCri6sPnY)
 * [DEF CON 25 - Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level](https://www.youtube.com/watch?v=Gu_5kkErQ6Y)
 * [DerbyCon7 - Not a Security Boundary Bypassing User Account Control](https://www.youtube.com/watch?v=c8LgqtATAnE\&t=0s\&index=21\&list=PLNhlcxQZJSm-PKUZTYe1C94ymf0omysM3)
@@ -150,7 +150,7 @@
 
 * [What Is AppLocker?](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/what-is-applocker)
 * [How to Evade Application Whitelisting Using REGSVR32](https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/)
-* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,078 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,079 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 
 ## Exfiltration
 
@@ -190,8 +190,8 @@
 
 ## Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,777 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,603 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,780 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,602 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [Nishang](https://github.com/samratashok/nishang) ⭐ 10,057 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Empire](https://github.com/EmpireProject/Empire) ⚠️ Archived
@@ -200,17 +200,17 @@
 
 ### Adversary Emulation
 
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,412 | 🐛 32 | 🌐 C | 📅 2026-08-13
-* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,194 | 🐛 74 | 🌐 Python | 📅 2026-08-12
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,417 | 🐛 26 | 🌐 C | 📅 2026-08-17
+* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,195 | 🐛 75 | 🌐 Python | 📅 2026-08-12
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,145 | 🐛 13 | 🌐 Python | 📅 2019-04-01
 * [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,095 | 🐛 7 | 🌐 Python | 📅 2019-05-01
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 841 | 🐛 1 | 🌐 Python | 📅 2026-08-06
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 844 | 🐛 1 | 🌐 Python | 📅 2026-08-06
 * [Cobalt Strike](https://www.cobaltstrike.com/)
 
 # Other Awesome Lists & sources
 
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,628 | 🐛 10 | 📅 2026-05-07
-* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,058 | 🐛 19 | 📅 2023-12-28
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,632 | 🐛 10 | 📅 2026-05-07
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,060 | 🐛 19 | 📅 2023-12-28
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,514 | 🐛 0 | 📅 2025-10-01
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 257 | 🐛 4 | 📅 2023-10-19
 * [Red Teaming Experiments](https://ired.team/)
@@ -223,4 +223,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
