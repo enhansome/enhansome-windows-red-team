@@ -1,27 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "System Architecture"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lateral Movement"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Defense Evasion"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Phishing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -30,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18496166,
             "language": "C",
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21780
+            "stars": 21783
           }
         },
         {
@@ -44,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56452110,
             "language": "PowerShell",
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
@@ -58,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19939837,
             "language": "PowerShell",
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
@@ -72,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40718289,
             "language": "Python",
             "last_commit": "2023-12-06T17:09:42Z",
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9157
+            "stars": 9156
           }
         },
         {
@@ -86,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40262072,
             "language": "PowerShell",
             "last_commit": "2020-01-19T22:50:59Z",
             "owner": "EmpireProject",
@@ -100,96 +85,170 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6371338,
             "language": "Python",
             "last_commit": "2020-06-15T18:07:44Z",
             "owner": "SpiderLabs",
             "repo": "Responder",
             "stars": 4890
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Atomic Red Team",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106586124,
+                "language": "C",
+                "last_commit": "2026-08-17T18:03:26Z",
+                "owner": "redcanaryco",
+                "repo": "atomic-red-team",
+                "stars": 12424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CALDERA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112409981,
+                "language": "Python",
+                "last_commit": "2026-08-12T16:29:06Z",
+                "owner": "apache",
+                "repo": "caldera",
+                "stars": 7202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109185631,
+                "language": "Python",
+                "last_commit": "2019-04-01T06:34:25Z",
+                "owner": "uber-common",
+                "repo": "metta",
+                "stars": 1145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red Team Automation - RTA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125913161,
+                "language": "Python",
+                "last_commit": "2019-05-01T11:40:33Z",
+                "owner": "endgameinc",
+                "repo": "RTA",
+                "stars": 1095
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Darkmoon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894433723,
+                "language": "Python",
+                "last_commit": "2026-08-06T15:05:32Z",
+                "owner": "ASCIT31",
+                "repo": "Dark-Moon",
+                "stars": 847
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Adversary Emulation"
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Atomic Red Team",
+          "title": "Red Teaming Toolkit",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T18:03:26Z",
-            "owner": "redcanaryco",
-            "repo": "atomic-red-team",
-            "stars": 12420
+            "id": 131160647,
+            "language": null,
+            "last_commit": "2026-05-07T23:44:01Z",
+            "owner": "infosecn1nja",
+            "repo": "Red-Teaming-Toolkit",
+            "stars": 10636
           }
         },
         {
           "node_type": "item",
-          "title": "CALDERA",
+          "title": "Awesome Red Teaming",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T16:29:06Z",
-            "owner": "apache",
-            "repo": "caldera",
-            "stars": 7199
+            "id": 104987608,
+            "language": null,
+            "last_commit": "2023-12-28T18:10:52Z",
+            "owner": "yeyintminthuhtut",
+            "repo": "Awesome-Red-Teaming",
+            "stars": 8061
           }
         },
         {
           "node_type": "item",
-          "title": "Metta",
+          "title": "Red Team Infrastructure Wiki",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2019-04-01T06:34:25Z",
-            "owner": "uber-common",
-            "repo": "metta",
-            "stars": 1145
+            "id": 82987976,
+            "language": null,
+            "last_commit": "2025-10-01T17:10:58Z",
+            "owner": "bluscreenofjeff",
+            "repo": "Red-Team-Infrastructure-Wiki",
+            "stars": 4516
           }
         },
         {
           "node_type": "item",
-          "title": "Red Team Automation - RTA",
+          "title": "Awesome Pentest",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-01T11:40:33Z",
-            "owner": "endgameinc",
-            "repo": "RTA",
-            "stars": 1095
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Darkmoon",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T15:05:32Z",
-            "owner": "ASCIT31",
-            "repo": "Dark-Moon",
-            "stars": 846
+            "id": 63216708,
+            "language": null,
+            "last_commit": "2023-10-19T18:00:27Z",
+            "owner": "Muhammd",
+            "repo": "Awesome-Pentest",
+            "stars": 257
           }
         }
       ],
-      "title": "Adversary Emulation"
+      "title": "Other Awesome Lists & sources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:55:45.697Z",
+    "last_updated": "2026-08-19T12:59:41.527Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
+    "original_repository_id": 149991328,
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
     "enhanced_repository": "enhansome/enhansome-windows-red-team",
     "enhanced_repository_description": null,
