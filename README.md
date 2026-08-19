@@ -150,7 +150,7 @@
 
 * [What Is AppLocker?](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/what-is-applocker)
 * [How to Evade Application Whitelisting Using REGSVR32](https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/)
-* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,079 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,080 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 
 ## Exfiltration
 
@@ -201,15 +201,15 @@
 ### Adversary Emulation
 
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,424 | 🐛 28 | 🌐 C | 📅 2026-08-17
-* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,202 | 🐛 75 | 🌐 Python | 📅 2026-08-12
+* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,200 | 🐛 76 | 🌐 Python | 📅 2026-08-12
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,145 | 🐛 13 | 🌐 Python | 📅 2019-04-01
 * [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,095 | 🐛 7 | 🌐 Python | 📅 2019-05-01
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 847 | 🐛 1 | 🌐 Python | 📅 2026-08-06
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 848 | 🐛 1 | 🌐 Python | 📅 2026-08-06
 * [Cobalt Strike](https://www.cobaltstrike.com/)
 
 # Other Awesome Lists & sources
 
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,636 | 🐛 10 | 📅 2026-05-07
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,635 | 🐛 9 | 📅 2026-05-07
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,061 | 🐛 19 | 📅 2023-12-28
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,516 | 🐛 0 | 📅 2025-10-01
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 257 | 🐛 4 | 📅 2023-10-19
