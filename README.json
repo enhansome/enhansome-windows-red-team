@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21783
+            "stars": 21781
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10056
+            "stars": 10058
           }
         },
         {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-17T18:03:26Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12424
+                "stars": 12428
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7200
+                "stars": 7207
               }
             },
             {
@@ -164,10 +164,10 @@
                 "archived": false,
                 "id": 894433723,
                 "language": "Python",
-                "last_commit": "2026-08-06T15:05:32Z",
+                "last_commit": "2026-08-20T08:53:07Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 848
+                "stars": 852
               }
             }
           ],
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-07T23:44:01Z",
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10635
+            "stars": 10636
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8061
+            "stars": 8060
           }
         },
         {
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:57:17.996Z",
+    "last_updated": "2026-08-20T20:00:35.096Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
     "original_repository_id": 149991328,
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
