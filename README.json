@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21787
+            "stars": 21792
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10603
+            "stars": 10604
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10064
+            "stars": 10065
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-12-06T17:09:42Z",
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9156
+            "stars": 9158
           }
         },
         {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-17T18:03:26Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12439
+                "stars": 12445
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7210
+                "stars": 7211
               }
             },
             {
@@ -164,10 +164,10 @@
                 "archived": false,
                 "id": 894433723,
                 "language": "Python",
-                "last_commit": "2026-08-21T18:19:19Z",
+                "last_commit": "2026-08-23T15:48:25Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 858
+                "stars": 865
               }
             }
           ],
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-07T23:44:01Z",
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10643
+            "stars": 10646
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8066
+            "stars": 8068
           }
         },
         {
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:54:29.931Z",
+    "last_updated": "2026-08-23T19:54:02.769Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
     "original_repository_id": 149991328,
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
