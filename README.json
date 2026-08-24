@@ -5,6 +5,83 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Windows Kernel Exploits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89315980,
+            "language": "C",
+            "last_commit": "2021-06-11T23:29:15Z",
+            "owner": "SecWiki",
+            "repo": "windows-kernel-exploits",
+            "stars": 8717
+          }
+        }
+      ],
+      "title": "Privilege Escalation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UltimateAppLockerByPassList",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96935123,
+                "language": "PowerShell",
+                "last_commit": "2023-09-11T20:43:25Z",
+                "owner": "api0cradle",
+                "repo": "UltimateAppLockerByPassList",
+                "stars": 2080
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AppLocker & Application Whitelisting"
+        }
+      ],
+      "title": "Defense Evasion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Office-DDE-Payloads",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108600834,
+                "language": "Python",
+                "last_commit": "2023-07-16T08:22:24Z",
+                "owner": "0xdeadbeefJERKY",
+                "repo": "Office-DDE-Payloads",
+                "stars": 637
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DDE"
+        }
+      ],
+      "title": "Phishing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Mimikatz",
           "description": null,
           "children": [],
@@ -15,7 +92,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21792
+            "stars": 21796
           }
         },
         {
@@ -30,7 +107,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10604
+            "stars": 10605
           }
         },
         {
@@ -45,7 +122,7 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10065
+            "stars": 10064
           }
         },
         {
@@ -104,10 +181,10 @@
                 "archived": false,
                 "id": 106586124,
                 "language": "C",
-                "last_commit": "2026-08-17T18:03:26Z",
+                "last_commit": "2026-08-24T11:19:06Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12445
+                "stars": 12448
               }
             },
             {
@@ -122,7 +199,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7211
+                "stars": 7210
               }
             },
             {
@@ -167,7 +244,7 @@
                 "last_commit": "2026-08-23T15:48:25Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 865
+                "stars": 867
               }
             }
           ],
@@ -208,7 +285,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8068
+            "stars": 8070
           }
         },
         {
@@ -246,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:54:02.769Z",
+    "last_updated": "2026-08-24T14:22:30.819Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
     "original_repository_id": 149991328,
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
