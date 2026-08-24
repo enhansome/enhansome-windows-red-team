@@ -112,7 +112,7 @@
 
 ## Privilege Escalation
 
-* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,717 | 🐛 10 | 🌐 C | 📅 2021-06-11
+* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,718 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * [Level Up! Practical Windows Privilege Escalation - Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 * [Windows Privilege Escalation Presentation](https://www.youtube.com/watch?v=mcJ3aRSqGSo)
 * [DEF CON 22 - Kallenberg and Kovah - Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.youtube.com/watch?v=d6VCri6sPnY)
@@ -148,7 +148,7 @@
 
 ### AppLocker & Application Whitelisting
 
-* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,080 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,081 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [What Is AppLocker?](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/what-is-applocker)
 * [How to Evade Application Whitelisting Using REGSVR32](https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/)
 
@@ -200,7 +200,7 @@
 
 ### Adversary Emulation
 
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,448 | 🐛 31 | 🌐 C | 📅 2026-08-24
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,449 | 🐛 30 | 🌐 C | 📅 2026-08-24
 * [CALDERA](https://github.com/mitre/caldera) ⭐ 7,210 | 🐛 75 | 🌐 Python | 📅 2026-08-12
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,145 | 🐛 13 | 🌐 Python | 📅 2019-04-01
 * [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,095 | 🐛 7 | 🌐 Python | 📅 2019-05-01
@@ -211,7 +211,7 @@
 
 * [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,646 | 🐛 9 | 📅 2026-05-07
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,070 | 🐛 19 | 📅 2023-12-28
-* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,517 | 🐛 0 | 📅 2025-10-01
+* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,518 | 🐛 0 | 📅 2025-10-01
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 257 | 🐛 4 | 📅 2023-10-19
 * [Red Teaming Experiments](https://ired.team/)
 
