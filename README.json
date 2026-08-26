@@ -15,7 +15,7 @@
             "last_commit": "2021-06-11T23:29:15Z",
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8718
+            "stars": 8719
           }
         }
       ],
@@ -92,7 +92,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21798
+            "stars": 21799
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2023-12-06T17:09:42Z",
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9158
+            "stars": 9159
           }
         },
         {
@@ -184,7 +184,7 @@
                 "last_commit": "2026-08-24T23:51:22Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12453
+                "stars": 12457
               }
             },
             {
@@ -199,7 +199,7 @@
                 "last_commit": "2026-08-12T16:29:06Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7212
+                "stars": 7213
               }
             },
             {
@@ -244,7 +244,7 @@
                 "last_commit": "2026-08-25T10:02:54Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 871
+                "stars": 876
               }
             }
           ],
@@ -270,7 +270,7 @@
             "last_commit": "2026-05-07T23:44:01Z",
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10651
+            "stars": 10654
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2023-12-28T18:10:52Z",
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8070
+            "stars": 8071
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2023-10-19T18:00:27Z",
             "owner": "Muhammd",
             "repo": "Awesome-Pentest",
-            "stars": 257
+            "stars": 258
           }
         }
       ],
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:00:07.325Z",
+    "last_updated": "2026-08-26T22:30:00.888Z",
     "original_repository": "marcosValle/awesome-windows-red-team",
     "original_repository_id": 149991328,
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
