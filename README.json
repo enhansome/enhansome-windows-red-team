@@ -92,7 +92,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21799
+            "stars": 21801
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10069
+            "stars": 10070
           }
         },
         {
@@ -184,7 +184,7 @@
                 "last_commit": "2026-08-24T23:51:22Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12457
+                "stars": 12458
               }
             },
             {
@@ -196,7 +196,7 @@
                 "archived": false,
                 "id": 112409981,
                 "language": "Python",
-                "last_commit": "2026-08-12T16:29:06Z",
+                "last_commit": "2026-08-27T01:29:55Z",
                 "owner": "apache",
                 "repo": "caldera",
                 "stars": 7213
@@ -244,7 +244,7 @@
                 "last_commit": "2026-08-25T10:02:54Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 876
+                "stars": 875
               }
             }
           ],
@@ -270,7 +270,7 @@
             "last_commit": "2026-05-07T23:44:01Z",
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10654
+            "stars": 10655
           }
         },
         {
@@ -323,9 +323,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:30:00.888Z",
-    "original_repository": "marcosValle/awesome-windows-red-team",
-    "original_repository_id": 149991328,
+    "last_updated": "2026-08-27T12:14:29.370Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 149991328,
+      "language": null,
+      "last_commit": "2026-07-08T20:22:35Z",
+      "owner": "marcosValle",
+      "repo": "awesome-windows-red-team",
+      "stars": 607
+    },
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
     "enhanced_repository": "enhansome/enhansome-windows-red-team",
     "enhanced_repository_description": null,
