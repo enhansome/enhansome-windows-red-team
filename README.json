@@ -15,8 +15,9 @@
             "last_commit": "2021-06-11T23:29:15Z",
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8719
-          }
+            "stars": 8720
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         }
       ],
       "title": "Privilege Escalation"
@@ -39,7 +40,8 @@
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
                 "stars": 2081
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             }
           ],
           "description": null,
@@ -67,7 +69,8 @@
                 "owner": "0xdeadbeefJERKY",
                 "repo": "Office-DDE-Payloads",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             }
           ],
           "description": null,
@@ -92,8 +95,9 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21799
-          }
+            "stars": 21800
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -108,7 +112,8 @@
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
             "stars": 10606
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -122,8 +127,9 @@
             "last_commit": "2024-04-25T19:39:44Z",
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10070
-          }
+            "stars": 10072
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -138,7 +144,8 @@
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
             "stars": 9159
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -152,8 +159,9 @@
             "last_commit": "2020-01-19T22:50:59Z",
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7863
-          }
+            "stars": 7862
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -168,7 +176,8 @@
             "owner": "SpiderLabs",
             "repo": "Responder",
             "stars": 4890
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "children": [
@@ -184,8 +193,9 @@
                 "last_commit": "2026-08-28T01:43:13Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12460
-              }
+                "stars": 12462
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             },
             {
               "node_type": "item",
@@ -199,8 +209,9 @@
                 "last_commit": "2026-08-27T14:01:16Z",
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7216
-              }
+                "stars": 7220
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             },
             {
               "node_type": "item",
@@ -215,7 +226,8 @@
                 "owner": "uber-common",
                 "repo": "metta",
                 "stars": 1145
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             },
             {
               "node_type": "item",
@@ -230,7 +242,8 @@
                 "owner": "endgameinc",
                 "repo": "RTA",
                 "stars": 1095
-              }
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             },
             {
               "node_type": "item",
@@ -244,8 +257,9 @@
                 "last_commit": "2026-08-25T10:02:54Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 875
-              }
+                "stars": 877
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
             }
           ],
           "description": null,
@@ -271,7 +285,8 @@
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
             "stars": 10660
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -286,7 +301,8 @@
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
             "stars": 8073
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -301,7 +317,8 @@
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
             "stars": 4520
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         },
         {
           "node_type": "item",
@@ -316,14 +333,15 @@
             "owner": "Muhammd",
             "repo": "Awesome-Pentest",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-29T02:26:31.557Z"
         }
       ],
       "title": "Other Awesome Lists & sources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:38.318Z",
+    "last_updated": "2026-08-29T02:26:31.557Z",
     "original_repository_info": {
       "archived": false,
       "id": 149991328,
