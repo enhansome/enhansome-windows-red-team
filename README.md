@@ -210,7 +210,7 @@
 # Other Awesome Lists & sources
 
 * [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,660 | 🐛 8 | 📅 2026-05-07
-* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,073 | 🐛 19 | 📅 2023-12-28
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,074 | 🐛 19 | 📅 2023-12-28
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,520 | 🐛 0 | 📅 2025-10-01
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 258 | 🐛 3 | 📅 2023-10-19
 * [Red Teaming Experiments](https://ired.team/)

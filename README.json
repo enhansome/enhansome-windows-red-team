@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "windows-kernel-exploits   Windows平台提权漏洞集合",
+            "homepage": null,
             "id": 89315980,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-06-11T23:29:15Z",
+            "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8720
+            "stars": 8720,
+            "topics": [
+              "collections",
+              "exploit",
+              "kernel",
+              "pentest",
+              "tool",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         }
@@ -34,12 +46,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The goal of this repository is to document the most common techniques to bypass AppLocker. ",
+                "homepage": null,
                 "id": 96935123,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2023-09-11T20:43:25Z",
+                "open_issues": 10,
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
-                "stars": 2081
+                "stars": 2081,
+                "topics": [
+                  "applocker",
+                  "awl",
+                  "blueteam",
+                  "bypass",
+                  "purpleteam",
+                  "redteam",
+                  "rules"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             }
@@ -63,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of scripts and templates to generate Office documents embedded with the DDE, macro-less command execution technique.",
+                "homepage": null,
                 "id": 108600834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-16T08:22:24Z",
+                "open_issues": 4,
                 "owner": "0xdeadbeefJERKY",
                 "repo": "Office-DDE-Payloads",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             }
@@ -90,12 +120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A little tool to play with Windows security",
+            "homepage": "http://blog.gentilkiwi.com/mimikatz",
             "id": 18496166,
             "language": "C",
+            "license": null,
             "last_commit": "2026-04-17T17:48:27Z",
+            "open_issues": 196,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21800
+            "stars": 21800,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -106,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Six Degrees of Domain Admin",
+            "homepage": null,
             "id": 56452110,
             "language": "PowerShell",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-02T18:29:31Z",
+            "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10606
+            "stars": 10606,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -122,12 +162,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security. ",
+            "homepage": null,
             "id": 19939837,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-25T19:39:44Z",
+            "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10072
+            "stars": 10072,
+            "topics": [
+              "activedirectory",
+              "hacking",
+              "infosec",
+              "nishang",
+              "penetration-testing",
+              "powershell",
+              "red-team",
+              "redteam",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -138,12 +193,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A swiss army knife for pentesting networks",
+            "homepage": null,
             "id": 40718289,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-12-06T17:09:42Z",
+            "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9159
+            "stars": 9159,
+            "topics": [
+              "active-directory",
+              "networks",
+              "pentesting",
+              "powershell",
+              "python",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -154,12 +221,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Empire is a PowerShell and Python post-exploitation agent.",
+            "homepage": "http://www.powershellempire.com/",
             "id": 40262072,
             "language": "PowerShell",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-01-19T22:50:59Z",
+            "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7862
+            "stars": 7862,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -170,12 +242,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
+            "homepage": null,
             "id": 6371338,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-15T18:07:44Z",
+            "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4890
+            "stars": 4890,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -188,12 +265,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+                "homepage": null,
                 "id": 106586124,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:43:13Z",
+                "open_issues": 30,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12462
+                "stars": 12462,
+                "topics": [
+                  "mitre",
+                  "mitre-attack"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             },
@@ -204,12 +289,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Adversary Emulation Platform",
+                "homepage": "https://caldera.apache.org/",
                 "id": 112409981,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:01:16Z",
+                "open_issues": 69,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7220
+                "stars": 7220,
+                "topics": [
+                  "adversary-emulation",
+                  "caldera",
+                  "cybersecurity",
+                  "mitre-attack",
+                  "red-team",
+                  "security-automation",
+                  "security-testing"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             },
@@ -220,12 +318,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An information security preparedness tool to do adversarial simulation.",
+                "homepage": null,
                 "id": 109185631,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-01T06:34:25Z",
+                "open_issues": 13,
                 "owner": "uber-common",
                 "repo": "metta",
-                "stars": 1145
+                "stars": 1145,
+                "topics": [
+                  "adversarial",
+                  "celery",
+                  "infosec",
+                  "network",
+                  "networking",
+                  "python",
+                  "redis",
+                  "security",
+                  "simulation",
+                  "uber",
+                  "vagrant",
+                  "virtualbox",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             },
@@ -236,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 125913161,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-05-01T11:40:33Z",
+                "open_issues": 7,
                 "owner": "endgameinc",
                 "repo": "RTA",
-                "stars": 1095
+                "stars": 1095,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             },
@@ -252,12 +374,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+                "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T10:02:54Z",
+                "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 877
+                "stars": 877,
+                "topics": [
+                  "active-directory",
+                  "ai-agents",
+                  "ai-red-team",
+                  "ai-security-tool",
+                  "autonomous-agents",
+                  "cloud-security",
+                  "firmware-security",
+                  "iot-security",
+                  "kubernetes",
+                  "llm",
+                  "local-llm",
+                  "mcp",
+                  "multi-agent-systems",
+                  "offensive-security",
+                  "penetration-testing",
+                  "pentesting",
+                  "red-team",
+                  "security-automation",
+                  "security-tools",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
             }
@@ -279,12 +427,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.",
+            "homepage": null,
             "id": 131160647,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-05-07T23:44:01Z",
+            "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10660
+            "stars": 10660,
+            "topics": [
+              "hacking",
+              "infosec",
+              "pentesting",
+              "red-team"
+            ]
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -295,12 +453,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Awesome Red Teaming Resources",
+            "homepage": null,
             "id": 104987608,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-28T18:10:52Z",
+            "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8073
+            "stars": 8074,
+            "topics": [
+              "cobalt-strike",
+              "empire",
+              "phishing",
+              "redteam",
+              "redteaming",
+              "uac"
+            ]
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -311,12 +481,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wiki to collect Red Team infrastructure hardening resources",
+            "homepage": null,
             "id": 82987976,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-01T17:10:58Z",
+            "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4520
+            "stars": 4520,
+            "topics": [
+              "cobalt-strike",
+              "empire",
+              "infrastructure",
+              "pentesting",
+              "red-team",
+              "redirector"
+            ]
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         },
@@ -327,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Penetration Testing   A collection of awesome penetration testing resources",
+            "homepage": "https://github.com/Muhammd/Awesome-Pentest",
             "id": 63216708,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-19T18:00:27Z",
+            "open_issues": 3,
             "owner": "Muhammd",
             "repo": "Awesome-Pentest",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
         }
@@ -341,15 +528,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:31.557Z",
+    "last_updated": "2026-08-29T04:39:17.228Z",
     "original_repository_info": {
       "archived": false,
+      "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
+      "homepage": null,
       "id": 149991328,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-08T20:22:35Z",
+      "open_issues": 0,
       "owner": "marcosValle",
       "repo": "awesome-windows-red-team",
-      "stars": 607
+      "stars": 607,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dde",
+        "evasion",
+        "kerberos",
+        "pentest",
+        "phishing",
+        "powershell",
+        "privilege-escalation",
+        "red-teams",
+        "windows",
+        "windows-exploitation"
+      ]
     },
     "original_repository_sha": "c612c3fdd840cf914abeb48dba8ab37642653f27",
     "enhanced_repository": "enhansome/enhansome-windows-red-team",
