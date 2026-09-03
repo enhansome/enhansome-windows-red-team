@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8728,
+            "stars": 8730,
             "topics": [
               "collections",
               "exploit",
@@ -55,7 +55,7 @@
                 "open_issues": 10,
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
-                "stars": 2079,
+                "stars": 2080,
                 "topics": [
                   "applocker",
                   "awl",
@@ -129,7 +129,7 @@
             "open_issues": 196,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21811,
+            "stars": 21813,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10081,
+            "stars": 10079,
             "topics": [
               "activedirectory",
               "hacking",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7859,
+            "stars": 7860,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -251,7 +251,7 @@
             "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4889,
+            "stars": 4891,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -271,10 +271,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-08-31T11:10:03Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12478,
+                "stars": 12483,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 71,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7233,
+                "stars": 7237,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -383,7 +383,7 @@
                 "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 888,
+                "stars": 887,
                 "topics": [
                   "active-directory",
                   "ai-agents",
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10672,
+            "stars": 10673,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8080,
+            "stars": 8078,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4523,
+            "stars": 4520,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:58:13.175Z",
+    "last_updated": "2026-09-03T21:52:50.608Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
@@ -540,7 +540,7 @@
       "open_issues": 0,
       "owner": "marcosValle",
       "repo": "awesome-windows-red-team",
-      "stars": 607,
+      "stars": 604,
       "topics": [
         "awesome",
         "awesome-list",
