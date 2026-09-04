@@ -129,7 +129,7 @@
             "open_issues": 196,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21813,
+            "stars": 21815,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -150,7 +150,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10609,
+            "stars": 10610,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -202,7 +202,7 @@
             "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9162,
+            "stars": 9161,
             "topics": [
               "active-directory",
               "networks",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7860,
+            "stars": 7859,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -274,7 +274,7 @@
                 "open_issues": 33,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12483,
+                "stars": 12486,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -383,7 +383,7 @@
                 "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 887,
+                "stars": 889,
                 "topics": [
                   "active-directory",
                   "ai-agents",
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10673,
+            "stars": 10682,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8078,
+            "stars": 8079,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4520,
+            "stars": 4521,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:52:50.608Z",
+    "last_updated": "2026-09-04T21:48:29.162Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
