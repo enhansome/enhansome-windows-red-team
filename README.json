@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8735,
+            "stars": 8734,
             "topics": [
               "collections",
               "exploit",
@@ -55,7 +55,7 @@
                 "open_issues": 10,
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
-                "stars": 2082,
+                "stars": 2084,
                 "topics": [
                   "applocker",
                   "awl",
@@ -129,7 +129,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21832,
+            "stars": 21834,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -147,7 +147,7 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2026-03-02T18:29:31Z",
-            "open_issues": 94,
+            "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
             "stars": 10617,
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10094,
+            "stars": 10096,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9163,
+            "stars": 9164,
             "topics": [
               "active-directory",
               "networks",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7858,
+            "stars": 7859,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -274,7 +274,7 @@
                 "open_issues": 33,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12517,
+                "stars": 12521,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 71,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7252,
+                "stars": 7254,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -383,7 +383,7 @@
                 "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 913,
+                "stars": 917,
                 "topics": [
                   "active-directory",
                   "ai-agents",
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10698,
+            "stars": 10702,
             "topics": [
               "hacking",
               "infosec",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:53:26.049Z",
+    "last_updated": "2026-09-11T21:54:27.708Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
