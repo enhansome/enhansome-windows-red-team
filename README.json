@@ -55,7 +55,7 @@
                 "open_issues": 10,
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
-                "stars": 2084,
+                "stars": 2083,
                 "topics": [
                   "applocker",
                   "awl",
@@ -129,7 +129,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21852,
+            "stars": 21854,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10112,
+            "stars": 10111,
             "topics": [
               "activedirectory",
               "hacking",
@@ -271,10 +271,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-14T11:11:59Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12561,
+                "stars": 12564,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 73,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7280,
+                "stars": 7283,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -383,7 +383,7 @@
                 "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 952,
+                "stars": 955,
                 "topics": [
                   "active-directory",
                   "ai-agents",
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10726,
+            "stars": 10725,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8099,
+            "stars": 8100,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:45:02.200Z",
+    "last_updated": "2026-09-20T21:48:53.853Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
