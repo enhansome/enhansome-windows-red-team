@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8737,
+            "stars": 8738,
             "topics": [
               "collections",
               "exploit",
@@ -97,7 +97,7 @@
                 "open_issues": 4,
                 "owner": "0xdeadbeefJERKY",
                 "repo": "Office-DDE-Payloads",
-                "stars": 635,
+                "stars": 634,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
@@ -129,7 +129,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21860,
+            "stars": 21864,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -150,7 +150,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10611,
+            "stars": 10609,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10114,
+            "stars": 10115,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9162,
+            "stars": 9160,
             "topics": [
               "active-directory",
               "networks",
@@ -271,10 +271,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-14T11:11:59Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12576,
+                "stars": 12578,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 74,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7288,
+                "stars": 7287,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -327,7 +327,7 @@
                 "open_issues": 13,
                 "owner": "uber-common",
                 "repo": "metta",
-                "stars": 1146,
+                "stars": 1145,
                 "topics": [
                   "adversarial",
                   "celery",
@@ -362,7 +362,7 @@
                 "open_issues": 7,
                 "owner": "endgameinc",
                 "repo": "RTA",
-                "stars": 1098,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
@@ -379,11 +379,11 @@
                 "id": 894433723,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T12:03:59Z",
+                "last_commit": "2026-09-24T10:28:14Z",
                 "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8102,
+            "stars": 8100,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:26:47.852Z",
+    "last_updated": "2026-09-24T22:43:42.089Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
