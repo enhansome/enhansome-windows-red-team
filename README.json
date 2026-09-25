@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8738,
+            "stars": 8739,
             "topics": [
               "collections",
               "exploit",
@@ -55,7 +55,7 @@
                 "open_issues": 10,
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
-                "stars": 2081,
+                "stars": 2082,
                 "topics": [
                   "applocker",
                   "awl",
@@ -129,7 +129,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21864,
+            "stars": 21868,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -150,7 +150,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10609,
+            "stars": 10611,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10115,
+            "stars": 10119,
             "topics": [
               "activedirectory",
               "hacking",
@@ -199,10 +199,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2023-12-06T17:09:42Z",
-            "open_issues": 67,
+            "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9160,
+            "stars": 9163,
             "topics": [
               "active-directory",
               "networks",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7854,
+            "stars": 7855,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -271,10 +271,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-14T11:11:59Z",
-                "open_issues": 35,
+                "open_issues": 38,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12578,
+                "stars": 12582,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 74,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7287,
+                "stars": 7289,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -374,16 +374,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
+                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
                 "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T10:28:14Z",
+                "last_commit": "2026-09-25T15:55:56Z",
                 "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 968,
+                "stars": 970,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10733,
+            "stars": 10737,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8100,
+            "stars": 8101,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4530,
+            "stars": 4532,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:43:42.089Z",
+    "last_updated": "2026-09-25T22:48:17.040Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
@@ -540,7 +540,7 @@
       "open_issues": 0,
       "owner": "marcosValle",
       "repo": "awesome-windows-red-team",
-      "stars": 605,
+      "stars": 604,
       "topics": [
         "awesome",
         "awesome-list",
