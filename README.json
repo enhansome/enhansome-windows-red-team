@@ -126,7 +126,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-04-17T17:48:27Z",
-            "open_issues": 197,
+            "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
             "stars": 21877,
@@ -150,7 +150,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10613,
+            "stars": 10610,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10126,
+            "stars": 10125,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9163,
+            "stars": 9162,
             "topics": [
               "active-directory",
               "networks",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7857,
+            "stars": 7856,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -251,7 +251,7 @@
             "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4889,
+            "stars": 4890,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -274,7 +274,7 @@
                 "open_issues": 38,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12593,
+                "stars": 12595,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 75,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7295,
+                "stars": 7299,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -327,7 +327,7 @@
                 "open_issues": 13,
                 "owner": "uber-common",
                 "repo": "metta",
-                "stars": 1144,
+                "stars": 1146,
                 "topics": [
                   "adversarial",
                   "celery",
@@ -383,7 +383,7 @@
                 "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 976,
+                "stars": 977,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10746,
+            "stars": 10747,
             "topics": [
               "hacking",
               "infosec",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:55:58.104Z",
+    "last_updated": "2026-09-29T23:11:14.459Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
