@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Windows Kernel Exploits",
-          "description": null,
+          "description": "SecWiki/windows-kernel-exploits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -42,7 +42,7 @@
             {
               "node_type": "item",
               "title": "UltimateAppLockerByPassList",
-              "description": null,
+              "description": "api0cradle/UltimateAppLockerByPassList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "Office-DDE-Payloads",
-              "description": null,
+              "description": "0xdeadbeefJERKY/Office-DDE-Payloads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -116,7 +116,7 @@
         {
           "node_type": "item",
           "title": "Mimikatz",
-          "description": null,
+          "description": "gentilkiwi/mimikatz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "BloodHound",
-          "description": null,
+          "description": "SpecterOps/BloodHound-Legacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,7 +158,7 @@
         {
           "node_type": "item",
           "title": "Nishang",
-          "description": null,
+          "description": "samratashok/nishang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -189,7 +189,7 @@
         {
           "node_type": "item",
           "title": "CrackMapExec",
-          "description": null,
+          "description": "byt3bl33d3r/CrackMapExec",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -202,7 +202,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9159,
+            "stars": 9158,
             "topics": [
               "active-directory",
               "networks",
@@ -217,7 +217,7 @@
         {
           "node_type": "item",
           "title": "Empire",
-          "description": null,
+          "description": "EmpireProject/Empire",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -238,7 +238,7 @@
         {
           "node_type": "item",
           "title": "Responder",
-          "description": null,
+          "description": "SpiderLabs/Responder",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "Atomic Red Team",
-              "description": null,
+              "description": "redcanaryco/atomic-red-team",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -285,7 +285,7 @@
             {
               "node_type": "item",
               "title": "CALDERA",
-              "description": null,
+              "description": "apache/caldera",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "Metta",
-              "description": null,
+              "description": "uber-common/metta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "Red Team Automation - RTA",
-              "description": null,
+              "description": "endgameinc/RTA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "Darkmoon",
-              "description": null,
+              "description": "ASCIT31/Dark-Moon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
         {
           "node_type": "item",
           "title": "Red Teaming Toolkit",
-          "description": null,
+          "description": "infosecn1nja/Red-Teaming-Toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -436,7 +436,7 @@
             "open_issues": 8,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10752,
+            "stars": 10753,
             "topics": [
               "hacking",
               "infosec",
@@ -449,7 +449,7 @@
         {
           "node_type": "item",
           "title": "Awesome Red Teaming",
-          "description": null,
+          "description": "yeyintminthuhtut/Awesome-Red-Teaming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -477,7 +477,7 @@
         {
           "node_type": "item",
           "title": "Red Team Infrastructure Wiki",
-          "description": null,
+          "description": "bluscreenofjeff/Red-Team-Infrastructure-Wiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -505,7 +505,7 @@
         {
           "node_type": "item",
           "title": "Awesome Pentest",
-          "description": null,
+          "description": "Muhammd/Awesome-Pentest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:11.358Z",
+    "last_updated": "2026-10-03T05:17:08.363Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
