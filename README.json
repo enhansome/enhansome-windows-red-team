@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8754,
+            "stars": 8753,
             "topics": [
               "collections",
               "exploit",
@@ -55,7 +55,7 @@
                 "open_issues": 10,
                 "owner": "api0cradle",
                 "repo": "UltimateAppLockerByPassList",
-                "stars": 2085,
+                "stars": 2086,
                 "topics": [
                   "applocker",
                   "awl",
@@ -129,7 +129,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21889,
+            "stars": 21894,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10136,
+            "stars": 10137,
             "topics": [
               "activedirectory",
               "hacking",
@@ -274,7 +274,7 @@
                 "open_issues": 36,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12617,
+                "stars": 12633,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 76,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7330,
+                "stars": 7339,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -383,7 +383,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1011,
+                "stars": 1013,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -436,7 +436,7 @@
             "open_issues": 9,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10765,
+            "stars": 10766,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 20,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8120,
+            "stars": 8121,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:57:06.286Z",
+    "last_updated": "2026-10-09T23:28:54.266Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
