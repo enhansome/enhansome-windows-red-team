@@ -125,11 +125,11 @@
             "id": 18496166,
             "language": "C",
             "license": null,
-            "last_commit": "2026-04-17T17:48:27Z",
-            "open_issues": 198,
+            "last_commit": "2026-10-26T12:33:58Z",
+            "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21927,
+            "stars": 21929,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -150,7 +150,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10621,
+            "stars": 10623,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10166,
+            "stars": 10169,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9164,
+            "stars": 9165,
             "topics": [
               "active-directory",
               "networks",
@@ -270,11 +270,11 @@
                 "id": 106586124,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-21T00:15:54Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-26T11:10:47Z",
+                "open_issues": 41,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12730,
+                "stars": 12734,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -295,7 +295,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T19:16:34Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "apache",
                 "repo": "caldera",
                 "stars": 7463,
@@ -307,6 +307,48 @@
                   "red-team",
                   "security-automation",
                   "security-testing"
+                ]
+              },
+              "first_seen": "2026-08-29T02:26:31.557Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Darkmoon",
+              "description": "ASCIT31/Dark-Moon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
+                "homepage": "https://dark-moon.org/",
+                "id": 894433723,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-26T13:36:22Z",
+                "open_issues": 2,
+                "owner": "ASCIT31",
+                "repo": "Dark-Moon",
+                "stars": 1148,
+                "topics": [
+                  "active-directory",
+                  "ai-penetration-testing",
+                  "ai-red-team",
+                  "ai-red-teaming",
+                  "ai-security",
+                  "ai-security-tool",
+                  "autonomous-ai",
+                  "cloud-security",
+                  "kubernetes",
+                  "llm",
+                  "llm-security",
+                  "local-llm",
+                  "mcp",
+                  "offensive-security",
+                  "penetration-testing",
+                  "pentesting",
+                  "red-team",
+                  "security-tools",
+                  "self-hosted",
+                  "vulnerability-scanner"
                 ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
@@ -342,48 +384,6 @@
                   "vagrant",
                   "virtualbox",
                   "yaml"
-                ]
-              },
-              "first_seen": "2026-08-29T02:26:31.557Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Darkmoon",
-              "description": "ASCIT31/Dark-Moon",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
-                "homepage": "https://dark-moon.org/",
-                "id": 894433723,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-25T12:10:24Z",
-                "open_issues": 2,
-                "owner": "ASCIT31",
-                "repo": "Dark-Moon",
-                "stars": 1144,
-                "topics": [
-                  "active-directory",
-                  "ai-penetration-testing",
-                  "ai-red-team",
-                  "ai-red-teaming",
-                  "ai-security",
-                  "ai-security-tool",
-                  "autonomous-ai",
-                  "cloud-security",
-                  "kubernetes",
-                  "llm",
-                  "llm-security",
-                  "local-llm",
-                  "mcp",
-                  "offensive-security",
-                  "penetration-testing",
-                  "pentesting",
-                  "red-team",
-                  "security-tools",
-                  "self-hosted",
-                  "vulnerability-scanner"
                 ]
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
@@ -436,7 +436,7 @@
             "open_issues": 10,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10808,
+            "stars": 10810,
             "topics": [
               "hacking",
               "infosec",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:02:04.713Z",
+    "last_updated": "2026-10-26T23:20:39.743Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
@@ -540,7 +540,7 @@
       "open_issues": 0,
       "owner": "marcosValle",
       "repo": "awesome-windows-red-team",
-      "stars": 608,
+      "stars": 609,
       "topics": [
         "awesome",
         "awesome-list",
