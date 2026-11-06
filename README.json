@@ -16,10 +16,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2021-06-11T23:29:15Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8765,
+            "stars": 8764,
             "topics": [
               "collections",
               "exploit",
@@ -97,7 +97,7 @@
                 "open_issues": 4,
                 "owner": "0xdeadbeefJERKY",
                 "repo": "Office-DDE-Payloads",
-                "stars": 634,
+                "stars": 635,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
@@ -129,7 +129,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21952,
+            "stars": 21955,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10180,
+            "stars": 10181,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9170,
+            "stars": 9171,
             "topics": [
               "active-directory",
               "networks",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7848,
+            "stars": 7850,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -271,10 +271,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-11-02T19:04:37Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12770,
+                "stars": 12777,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 83,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7492,
+                "stars": 7498,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -327,7 +327,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1202,
+                "stars": 1205,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -366,7 +366,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2019-04-01T06:34:25Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "uber-common",
                 "repo": "metta",
                 "stars": 1148,
@@ -436,7 +436,7 @@
             "open_issues": 12,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10840,
+            "stars": 10845,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8140,
+            "stars": 8141,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4548,
+            "stars": 4549,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:31:13.438Z",
+    "last_updated": "2026-11-06T00:32:50.509Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
