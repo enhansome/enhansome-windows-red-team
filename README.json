@@ -97,7 +97,7 @@
                 "open_issues": 4,
                 "owner": "0xdeadbeefJERKY",
                 "repo": "Office-DDE-Payloads",
-                "stars": 636,
+                "stars": 635,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:26:31.557Z"
@@ -129,7 +129,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21973,
+            "stars": 21976,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10201,
+            "stars": 10204,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9179,
+            "stars": 9180,
             "topics": [
               "active-directory",
               "networks",
@@ -270,11 +270,11 @@
                 "id": 106586124,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-09T11:15:26Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-16T11:26:01Z",
+                "open_issues": 41,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12866,
+                "stars": 12873,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 83,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7531,
+                "stars": 7538,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -327,7 +327,7 @@
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1239,
+                "stars": 1248,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -436,7 +436,7 @@
             "open_issues": 12,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10869,
+            "stars": 10870,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8152,
+            "stars": 8154,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4554,
+            "stars": 4556,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -515,7 +515,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-10-19T18:00:27Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Muhammd",
             "repo": "Awesome-Pentest",
             "stars": 259,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:30:47.028Z",
+    "last_updated": "2026-11-17T02:36:46.304Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",

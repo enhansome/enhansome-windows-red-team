@@ -179,7 +179,7 @@
 
 ### DDE
 
-* [Office-DDE-Payloads](https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads) ⭐ 636 | 🐛 4 | 🌐 Python | 📅 2023-07-16
+* [Office-DDE-Payloads](https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads) ⭐ 635 | 🐛 4 | 🌐 Python | 📅 2023-07-16
 * [About Dynamic Data Exchange](https://docs.microsoft.com/en-us/windows/desktop/dataxchg/about-dynamic-data-exchange)
 * [Abusing Microsoft Office DDE](https://www.securitysift.com/abusing-microsoft-office-dde/)
 * [Microsoft Office Dynamic Data Exchange(DDE) attacks](https://resources.infosecinstitute.com/microsoft-office-dynamic-data-exchangedde-attacks/#gref)
@@ -190,9 +190,9 @@
 
 ## Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,973 | 🐛 199 | 🌐 C | 📅 2026-10-30
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,976 | 🐛 199 | 🌐 C | 📅 2026-10-30
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,626 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
-* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,201 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
+* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,204 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Empire](https://github.com/EmpireProject/Empire) ⚠️ Archived
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived
@@ -200,19 +200,19 @@
 
 ### Adversary Emulation
 
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,866 | 🐛 40 | 🌐 C | 📅 2026-11-09
-* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,531 | 🐛 83 | 🌐 Python | 📅 2026-10-12
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,239 | 🐛 7 | 🌐 Python | 📅 2026-10-27
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,873 | 🐛 41 | 🌐 C | 📅 2026-11-16
+* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,538 | 🐛 83 | 🌐 Python | 📅 2026-10-12
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,248 | 🐛 7 | 🌐 Python | 📅 2026-10-27
 * [Metta](https://github.com/uber-common/metta) ⭐ 1,147 | 🐛 13 | 🌐 Python | 📅 2019-04-01
 * [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,104 | 🐛 7 | 🌐 Python | 📅 2019-05-01
 * [Cobalt Strike](https://www.cobaltstrike.com/)
 
 # Other Awesome Lists & sources
 
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,869 | 🐛 12 | 📅 2026-05-07
-* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,152 | 🐛 19 | 📅 2023-12-28
-* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,554 | 🐛 0 | 📅 2025-10-01
-* [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 259 | 🐛 4 | 📅 2023-10-19
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,870 | 🐛 12 | 📅 2026-05-07
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,154 | 🐛 19 | 📅 2023-12-28
+* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,556 | 🐛 0 | 📅 2025-10-01
+* [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 259 | 🐛 5 | 📅 2023-10-19
 * [Red Teaming Experiments](https://ired.team/)
 
 # Contributing
@@ -223,4 +223,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
