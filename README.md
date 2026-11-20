@@ -112,7 +112,7 @@
 
 ## Privilege Escalation
 
-* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,769 | 🐛 10 | 🌐 C | 📅 2021-06-11
+* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,767 | 🐛 10 | 🌐 C | 📅 2021-06-11
 * [Level Up! Practical Windows Privilege Escalation - Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 * [Windows Privilege Escalation Presentation](https://www.youtube.com/watch?v=mcJ3aRSqGSo)
 * [DEF CON 22 - Kallenberg and Kovah - Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.youtube.com/watch?v=d6VCri6sPnY)
@@ -148,7 +148,7 @@
 
 ### AppLocker & Application Whitelisting
 
-* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,095 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,093 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [What Is AppLocker?](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/what-is-applocker)
 * [How to Evade Application Whitelisting Using REGSVR32](https://www.blackhillsinfosec.com/evade-application-whitelisting-using-regsvr32/)
 
@@ -179,7 +179,7 @@
 
 ### DDE
 
-* [Office-DDE-Payloads](https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads) ⭐ 635 | 🐛 4 | 🌐 Python | 📅 2023-07-16
+* [Office-DDE-Payloads](https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads) ⭐ 634 | 🐛 4 | 🌐 Python | 📅 2023-07-16
 * [About Dynamic Data Exchange](https://docs.microsoft.com/en-us/windows/desktop/dataxchg/about-dynamic-data-exchange)
 * [Abusing Microsoft Office DDE](https://www.securitysift.com/abusing-microsoft-office-dde/)
 * [Microsoft Office Dynamic Data Exchange(DDE) attacks](https://resources.infosecinstitute.com/microsoft-office-dynamic-data-exchangedde-attacks/#gref)
@@ -190,9 +190,9 @@
 
 ## Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,980 | 🐛 199 | 🌐 C | 📅 2026-10-30
-* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,627 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
-* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,211 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,982 | 🐛 199 | 🌐 C | 📅 2026-10-30
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,626 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Nishang](https://github.com/samratashok/nishang) ⭐ 10,209 | 🐛 22 | 🌐 PowerShell | 📅 2024-04-25
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Empire](https://github.com/EmpireProject/Empire) ⚠️ Archived
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived
@@ -200,18 +200,18 @@
 
 ### Adversary Emulation
 
-* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,886 | 🐛 41 | 🌐 C | 📅 2026-11-16
-* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,542 | 🐛 50 | 🌐 Python | 📅 2026-11-18
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,267 | 🐛 7 | 🌐 Python | 📅 2026-10-27
-* [Metta](https://github.com/uber-common/metta) ⭐ 1,147 | 🐛 13 | 🌐 Python | 📅 2019-04-01
-* [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,104 | 🐛 7 | 🌐 Python | 📅 2019-05-01
+* [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,890 | 🐛 41 | 🌐 C | 📅 2026-11-16
+* [CALDERA](https://github.com/mitre/caldera) ⭐ 7,542 | 🐛 48 | 🌐 Python | 📅 2026-11-19
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,274 | 🐛 7 | 🌐 Python | 📅 2026-11-19
+* [Metta](https://github.com/uber-common/metta) ⭐ 1,146 | 🐛 13 | 🌐 Python | 📅 2019-04-01
+* [Red Team Automation - RTA](https://github.com/endgameinc/RTA) ⭐ 1,103 | 🐛 7 | 🌐 Python | 📅 2019-05-01
 * [Cobalt Strike](https://www.cobaltstrike.com/)
 
 # Other Awesome Lists & sources
 
-* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,877 | 🐛 12 | 📅 2026-05-07
-* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,157 | 🐛 19 | 📅 2023-12-28
-* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,556 | 🐛 0 | 📅 2025-10-01
+* [Red Teaming Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,879 | 🐛 12 | 📅 2026-05-07
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,158 | 🐛 19 | 📅 2023-12-28
+* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,555 | 🐛 0 | 📅 2025-10-01
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) ⭐ 261 | 🐛 5 | 📅 2023-10-19
 * [Red Teaming Experiments](https://ired.team/)
 
@@ -223,4 +223,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
