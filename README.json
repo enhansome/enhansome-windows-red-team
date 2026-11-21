@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10211,
+            "stars": 10216,
             "topics": [
               "activedirectory",
               "hacking",
@@ -274,7 +274,7 @@
                 "open_issues": 42,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12893,
+                "stars": 12896,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -298,7 +298,7 @@
                 "open_issues": 47,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7544,
+                "stars": 7547,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -318,16 +318,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
+                "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10), with an evidence-checked attack-path graph. Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
                 "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T23:24:43Z",
+                "last_commit": "2026-11-21T11:23:37Z",
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1276,
+                "stars": 1283,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -436,7 +436,7 @@
             "open_issues": 12,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10879,
+            "stars": 10881,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8159,
+            "stars": 8158,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4556,
+            "stars": 4557,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:57:04.028Z",
+    "last_updated": "2026-11-21T23:55:16.197Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
