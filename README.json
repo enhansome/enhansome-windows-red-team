@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "SecWiki",
             "repo": "windows-kernel-exploits",
-            "stars": 8773,
+            "stars": 8775,
             "topics": [
               "collections",
               "exploit",
@@ -129,7 +129,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21992,
+            "stars": 21995,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -150,7 +150,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10632,
+            "stars": 10633,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -171,7 +171,7 @@
             "open_issues": 22,
             "owner": "samratashok",
             "repo": "nishang",
-            "stars": 10219,
+            "stars": 10221,
             "topics": [
               "activedirectory",
               "hacking",
@@ -202,7 +202,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9183,
+            "stars": 9184,
             "topics": [
               "active-directory",
               "networks",
@@ -230,7 +230,7 @@
             "open_issues": 101,
             "owner": "EmpireProject",
             "repo": "Empire",
-            "stars": 7853,
+            "stars": 7854,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -251,7 +251,7 @@
             "open_issues": 44,
             "owner": "SpiderLabs",
             "repo": "Responder",
-            "stars": 4890,
+            "stars": 4891,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:31.557Z"
@@ -271,10 +271,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-11-23T11:28:13Z",
-                "open_issues": 42,
+                "open_issues": 44,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12908,
+                "stars": 12915,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -295,10 +295,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T23:06:24Z",
-                "open_issues": 48,
+                "open_issues": 52,
                 "owner": "apache",
                 "repo": "caldera",
-                "stars": 7551,
+                "stars": 7554,
                 "topics": [
                   "adversary-emulation",
                   "caldera",
@@ -327,7 +327,7 @@
                 "open_issues": 6,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1295,
+                "stars": 1304,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -436,7 +436,7 @@
             "open_issues": 13,
             "owner": "infosecn1nja",
             "repo": "Red-Teaming-Toolkit",
-            "stars": 10886,
+            "stars": 10893,
             "topics": [
               "hacking",
               "infosec",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "yeyintminthuhtut",
             "repo": "Awesome-Red-Teaming",
-            "stars": 8160,
+            "stars": 8159,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -490,7 +490,7 @@
             "open_issues": 0,
             "owner": "bluscreenofjeff",
             "repo": "Red-Team-Infrastructure-Wiki",
-            "stars": 4559,
+            "stars": 4560,
             "topics": [
               "cobalt-strike",
               "empire",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:26:09.040Z",
+    "last_updated": "2026-11-25T03:09:56.079Z",
     "original_repository_info": {
       "archived": false,
       "description": " A curated list of awesome Windows frameworks, libraries, software and resources for Red Teams",
@@ -540,7 +540,7 @@
       "open_issues": 0,
       "owner": "marcosValle",
       "repo": "awesome-windows-red-team",
-      "stars": 613,
+      "stars": 614,
       "topics": [
         "awesome",
         "awesome-list",
